@@ -4,12 +4,12 @@ from setuptools import setup, find_packages
 long_description = open('README.rst').read()
 
 setup(
-    name='PyChromecast',
+    name='Cantiz-PyChromecast',
     version='3.2.2',
     license='MIT',
-    url='https://github.com/balloob/pychromecast',
-    author='Paulus Schoutsen',
-    author_email='paulus@paulusschoutsen.nl',
+    url='https://github.com/karthikpanicker/pychromecast',
+    author='Karthik Raveendran',
+    author_email='karthik@attinadsoftware.com',
     description='Python module to talk to Google Chromecast.',
     long_description=long_description,
     packages=find_packages(),
